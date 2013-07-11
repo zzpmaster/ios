@@ -197,6 +197,7 @@ int main(int argc, const char * argv[])
 #endif
         //测试分支
         int develop = 0;
+        NSLog(@"%d", develop);
     }
     return 0;
 }
